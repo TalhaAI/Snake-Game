@@ -62,18 +62,6 @@ The Snake Game is divided into multiple functions, each performing a specified o
 9. **`stopGame()`**:
    - Stops all game functions and displays the game over message.
 
-## Results
-
-Every function performs its operation well. The game starts when an arrow key is pressed, and the snake moves in the specified direction. The game ends when the snake collides with the walls or itself. The score is displayed in the command window after the game is over.
-
-**Start of Snake Game:**
-
-![Start of Snake Game](images/start_game.png)
-
-**Game Over Screen:**
-
-![Game Over Screen](images/game_over.png)
-
 ## Discussion
 
 The game starts when any arrow key is pressed, and the snake moves in the direction of the arrow key. The game stops when the snake collides with the walls or itself. There is no option to pause the game. After the game is over, the score is displayed in the command window, showing the number of targets consumed by the snake.
